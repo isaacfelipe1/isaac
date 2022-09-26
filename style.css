@@ -3,13 +3,7 @@ body{
     font-family: 'Roboto', sans-serif;
     background: linear-gradient(236.85deg,#041832 27.26%,#3468A7 96.03%);
 }
-header {
-    width: 100%;
-    background-image: url('https://i.ytimg.com/vi/fNSDQ7SYJhc/maxresdefault.jpg');
-    background-size: cover;
-    height: 120px;
-    border-radius: 5px;
-}
+
  .container{
     display: block;
     margin-left: auto;
