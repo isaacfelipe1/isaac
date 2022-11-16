@@ -1,3 +1,3 @@
-function mudatema(params) {
+function mudatema() {
     document.body.classList.toggle("dark");
 }
